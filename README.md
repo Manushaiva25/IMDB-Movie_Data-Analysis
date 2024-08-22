@@ -5,7 +5,7 @@ its comprehensive online database collection of movies, films, TV series and so
 on. Explore the given movie dataset and find some meaningful insights.
 
 Data Description
-title: Title of the movie
+title: Title of the movie</br>
 year: Year of the movie
 color: Colour/Black and white
 content_rating: Content rating
